@@ -4,7 +4,7 @@ from queue import PriorityQueue
 
 
 # 4-7 is just for setting a window in pygame.
-WIDTH = 800
+WIDTH = 700
 WIN = pygame.display.set_mode((WIDTH, WIDTH)) # makes a square window
 pygame.display.set_caption("A* Path Finder") # will set a caption
 
